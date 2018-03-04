@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/tubiao/ico.png</file>
+        <file>pic/back/background.jpg</file>
+        <file>pic/back/background.png</file>
+        <file>pic/back/init.jpg</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>sound/bomb.wav</file>
+        <file>sound/bullet.mp3</file>
+        <file>sound/eatKill.mp3</file>
+        <file>sound/first.mp3</file>
+        <file>sound/firstsound.mp3</file>
+        <file>sound/frozen.mp3</file>
+        <file>sound/kof.mp3</file>
+        <file>sound/lightning.mp3</file>
+        <file>sound/secondsound.mp3</file>
+        <file>sound/boss.wav</file>
+        <file>sound/fireSound.wav</file>
+        <file>sound/fireSound2.wav</file>
+        <file>sound/sanjiaofahe.wav</file>
+        <file>sound/shangtang.wav</file>
+        <file>sound/backsound1.wav</file>
+        <file>sound/eatKill.wav</file>
+        <file>sound/secondsound.wav</file>
+        <file>sound/tower_was_attacked.wav</file>
+    </qresource>
+    <qresource prefix="/baozha">
+        <file>pic/baozha/bomb1.png</file>
+        <file>pic/baozha/bomb2.png</file>
+        <file>pic/baozha/bomb3.png</file>
+        <file>pic/baozha/bomb4.png</file>
+    </qresource>
+    <qresource prefix="/skill">
+        <file>pic/texiaozu/fire.png</file>
+        <file>pic/texiaozu/left.png</file>
+        <file>pic/texiaozu/numBomb.png</file>
+        <file>pic/texiaozu/paotaiqihuan.png</file>
+        <file>pic/texiaozu/right.png</file>
+        <file>pic/texiaozu/zhuandansudu.png</file>
+        <file>pic/texiaozu/bomb.png</file>
+        <file>pic/texiaozu/wall.png</file>
+        <file>pic/texiaozu/box.png</file>
+        <file>pic/texiaozu/reverse.png</file>
+    </qresource>
+</RCC>
