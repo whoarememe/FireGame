@@ -6,7 +6,7 @@
 
 双方的目标就是尽可能等消灭掉对方的所有炮塔。
 
-![firegame2](/home/ever/Workspace/FireGame/imgs/firegame3.png)
+![firegame2](./imgs/firegame3.png)
 
 ## 游戏规则
 
